@@ -54,12 +54,8 @@ export default class Main extends Component {
           <Projects />
           <StartupProject />
           <Achievement />
-          <Blogs />
-          <Talks />
-          <Twitter />
-          <Podcast />
           <Profile />
-          <Footer />
+     
           <Top />
         </StyleProvider>
       </div>

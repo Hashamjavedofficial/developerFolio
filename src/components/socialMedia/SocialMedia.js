@@ -44,14 +44,14 @@ export default function socialMedia() {
         </a>
       ) : null}
 
-      {socialMediaLinks.gitlab ? (
+      {socialMediaLinks.twitterDetails ? (
         <a
-          href={socialMediaLinks.gitlab}
-          className="icon-button gitlab"
+          href={socialMediaLinks.twitterDetails}
+          className="icon-button twitter"
           target="_blank"
           rel="noopener noreferrer"
         >
-          <i className="fab fa-gitlab"></i>
+          <i className="fab fa-twitter"></i>
           <span></span>
         </a>
       ) : null}
