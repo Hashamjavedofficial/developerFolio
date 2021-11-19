@@ -14,7 +14,7 @@ const greeting = {
   username: "Hasham Javed",
   title: "Hi all, I'm Hasham Javed",
   subTitle: emoji(
-    "A passionate Full Stack Software Engineer 🚀 having 5 years of experience in building Web applications with JavaScript / Reactjs / Nodejs / Vuejs  and many other cool libraries and frameworks."
+    "A passionate Full Stack Software Engineer 🚀 having 5 years of experience in building Web applications with JavaScript / Reactjs / Nodejs / Vuejs / React-Native and many other cool libraries and frameworks."
   ),
   resumeLink:
     "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing",
@@ -27,7 +27,7 @@ const socialMediaLinks = {
   github: "https://github.com/Hashamjavedofficial",
   linkedin: "https://www.linkedin.com/in/hashamjaved/",
   gmail: "hasham.hasham1@gmail.com",
-  twitterDetails:'https://twitter.com/1_hasham1',
+  twitterDetails: "https://twitter.com/1_hasham1",
   facebook: "https://www.facebook.com/HashamJavedOfficial/",
   // stackoverflow: "https://stackoverflow.com/users/10422806/saad-pasta",
   // Instagram and Twitter are also supported in the links!
@@ -118,7 +118,7 @@ const educationInfo = {
       schoolName: "University of Gujrat",
       logo: require("./assets/images/gujratLogo.jpg"),
       subHeader: "Becholers of Science in Computer Science",
-      duration: "August 2015 - June 2019",
+      duration: "August 2015 - June 2019"
     }
   ]
 };
@@ -337,8 +337,8 @@ const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
-  number: "+92-3243454077",
-  email_address: "saadpasta70@gmail.com"
+  number: "+92-3014498244",
+  email_address: "hasham.hasham1@gmail.com"
 };
 
 // Twitter Section
