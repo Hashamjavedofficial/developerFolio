@@ -14,7 +14,7 @@ const greeting = {
   username: "Hasham Javed",
   title: "Hi all, I'm Hasham Javed",
   subTitle: emoji(
-    "A passionate Full Stack Software Engineer 🚀 having 5 years of experience in building Web applications with JavaScript / Reactjs / Nodejs / Vuejs / React-Native and many other cool libraries and frameworks."
+    "A passionate Full Stack Software Engineer 🚀 having 5+ years of experience in building Web applications with JavaScript / Reactjs / Nodejs / Vuejs / React-Native and many other cool libraries and frameworks."
   ),
   resumeLink:
     "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing",
@@ -116,7 +116,7 @@ const educationInfo = {
   schools: [
     {
       schoolName: "University of Gujrat",
-      logo: require("./assets/images/gujratLogo.jpg"),
+      logo: require("./assets/images/uog.jpeg"),
       subHeader: "Becholers of Science in Computer Science",
       duration: "August 2015 - June 2019"
     }
@@ -151,9 +151,9 @@ const workExperiences = {
   experience: [
     {
       role: "Software Engineer",
-      company: "codeFulcrum",
-      companylogo: require("./assets/images/codefulcrum.jpg"),
-      date: "June 2018 – Present",
+      company: "Folio3",
+      companylogo: require("./assets/images/folio3.png"),
+      date: "July 2021 – Present",
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       descBullets: [
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
@@ -162,17 +162,28 @@ const workExperiences = {
     },
     {
       role: "Software Engineer",
-      company: "One Clout ",
+      company: "codeFulcrum",
+      companylogo: require("./assets/images/codefulcrum.jpg"),
+      date: "March 2021 – July 2021",
+      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      descBullets: [
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+      ]
+    },
+    {
+      role: "Software Engineer",
+      company: "OneClout ",
       companylogo: require("./assets/images/oneclout.png"),
-      date: "May 2017 – May 2018",
+      date: "Jan 2018 – March 2021",
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     },
     {
-      role: "Full-Stack Developer",
+      role: "Javascript Developer",
       company: "Logicman Pvt Ltd",
       companylogo: require("./assets/images/logicman.png"),
 
-      date: "Jan 2015 – Sep 2015",
+      date: "June 2018 – Jan 2020",
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     }
   ]
@@ -223,53 +234,74 @@ const bigProjects = {
 // Include certificates, talks etc
 
 const achievementSection = {
-  title: emoji("Achievements And Certifications 🏆 "),
+  title: emoji("Certifications 🏆 "),
   subtitle:
-    "Achievements, Certifications, Award Letters and Some Cool Stuff that I have done !",
+    "Certifications, Award Letters and Some Cool Stuff that I have done !",
 
   achievementsCards: [
     {
-      title: "Google Code-In Finalist",
-      subtitle:
-        "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
-      image: require("./assets/images/codeInLogo.webp"),
+      title: "Front-End Web Development with React",
+      subtitle: "The Hong Kong University of Science and Technology.",
+      image: require("./assets/images/react-coursera.png"),
       footerLink: [
         {
           name: "Certification",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing"
-        },
-        {
-          name: "Award Letter",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing"
-        },
-        {
-          name: "Google Code-in Blog",
-          url: "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html"
+          url: "https://www.coursera.org/account/accomplishments/verify/HG44CCFRJLKH"
         }
       ]
     },
     {
-      title: "Google Assistant Action",
-      subtitle:
-        "Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
-      image: require("./assets/images/googleAssistantLogo.webp"),
+      title: "Google Cloud Fundamentals: Core Infrastructure",
+      subtitle: "Google Cloud",
+      image: require("./assets/images/google-coursera.png"),
       footerLink: [
         {
-          name: "View Google Assistant Action",
-          url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
+          name: "Certification",
+          url: "https://www.coursera.org/account/accomplishments/verify/8JHMTT8KWV8X"
         }
       ]
     },
-
     {
-      title: "PWA Web App Developer",
-      subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
-      image: require("./assets/images/pwaLogo.webp"),
+      title: "React - The Complete Guide (incl Hooks, React Router, Redux)",
+      subtitle: "Udemy",
+      image: require("./assets/images/react-udemy.jpeg"),
       footerLink: [
-        {name: "Certification", url: ""},
         {
-          name: "Final Project",
-          url: "https://pakistan-olx-1.firebaseapp.com/"
+          name: "Certification",
+          url: "https://www.udemy.com/certificate/UC-2c4c1530-c645-4a41-861c-d121ce3a3e2d/"
+        }
+      ]
+    },
+    {
+      title: "The Complete Node.js Developer Course (3rd Edition)",
+      subtitle: "Udemy",
+      image: require("./assets/images/udmey-node.jpeg"),
+      footerLink: [
+        {
+          name: "Certification",
+          url: "https://www.udemy.com/certificate/UC-a6af1965-dfea-44b4-810b-882809a5378d/"
+        }
+      ]
+    },
+    {
+      title: "Front-End Web UI Frameworks and Tools: Bootstrap 4",
+      subtitle: "The Hong Kong University of Science and Technology.",
+      image: require("./assets/images/bootstrap-coursera.png"),
+      footerLink: [
+        {
+          name: "Certification",
+          url: "https://www.coursera.org/account/accomplishments/verify/MB8VXX664NX9"
+        }
+      ]
+    },
+    {
+      title: "The Complete Git Guide: Understand and master Git and GitHub",
+      subtitle: "Udemy",
+      image: require("./assets/images/git-idemy.jpeg"),
+      footerLink: [
+        {
+          name: "Certification",
+          url: "https://www.udemy.com/certificate/UC-1fbfc344-61c7-4383-a04b-0c8bcbbb32df/"
         }
       ]
     }
