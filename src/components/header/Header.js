@@ -10,7 +10,8 @@ import {
   openSource,
   blogSection,
   talkSection,
-  achievementSection
+  achievementSection,
+  bigProjects
 } from "../../portfolio";
 
 function Header() {
@@ -49,14 +50,19 @@ function Header() {
               <a href="#experience">Work Experiences</a>
             </li>
           )}
-          {viewOpenSource && (
-            <li>
-              <a href="#opensource">Open Source</a>
-            </li>
-          )}
+          {/*{viewOpenSource && (*/}
+          {/*  <li>*/}
+          {/*    <a href="#opensource">Open Source</a>*/}
+          {/*  </li>*/}
+          {/*)}*/}
           {viewAchievement && (
             <li>
-              <a href="#achievements">Achievements</a>
+              <a href="#achievements">Certifications</a>
+            </li>
+          )}
+          {bigProjects && (
+            <li>
+              <a href="#projects">Projects</a>
             </li>
           )}
 

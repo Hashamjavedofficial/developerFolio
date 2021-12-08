@@ -49,13 +49,12 @@ export default class Main extends Component {
           <Greeting />
           <Skills />
           <StackProgress />
-          <Education />
           <WorkExperience />
           <Projects />
           <StartupProject />
+          <Education />
           <Achievement />
           <Profile />
-     
           <Top />
         </StyleProvider>
       </div>

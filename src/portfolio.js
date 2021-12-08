@@ -14,7 +14,7 @@ const greeting = {
   username: "Hasham Javed",
   title: "Hi all, I'm Hasham Javed",
   subTitle: emoji(
-    "A passionate Full Stack Software Engineer 🚀 having 5+ years of experience in building Web applications with JavaScript / Reactjs / Nodejs / Vuejs / React-Native and many other cool libraries and frameworks."
+    "A passionate Full Stack Software Engineer 🚀 having 5+ years of experience in building Web and Hybrid applications with JavaScript / Reactjs / Nodejs / Vuejs / React-Native and many other cool libraries and frameworks."
   ),
   resumeLink:
     "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing",
@@ -81,10 +81,10 @@ https://fontawesome.com/icons?d=gallery */
       skillName: "vuejs",
       fontAwesomeClassname: "fab fa-vuejs"
     },
-    {
-      skillName: "angular",
-      fontAwesomeClassname: "fab fa-angular"
-    },
+    // {
+    //   skillName: "angular",
+    //   fontAwesomeClassname: "fab fa-angular"
+    // },
     {
       skillName: "npm",
       fontAwesomeClassname: "fab fa-npm"
@@ -117,7 +117,7 @@ const educationInfo = {
     {
       schoolName: "University of Gujrat",
       logo: require("./assets/images/uog.jpeg"),
-      subHeader: "Becholers of Science in Computer Science",
+      subHeader: "Bachelor of Science in Computer Science",
       duration: "August 2015 - June 2019"
     }
   ]
@@ -129,15 +129,15 @@ const techStack = {
   viewSkillBars: true, //Set it to true to show Proficiency Section
   experience: [
     {
-      Stack: "Frontend/Design", //Insert stack or technology you have experience in
+      Stack: "Frontend Development", //Insert stack or technology you have experience in
       progressPercentage: "95%" //Insert relative proficiency in percentage
     },
     {
-      Stack: "Backend",
+      Stack: "Backend Development",
       progressPercentage: "85%"
     },
     {
-      Stack: "Programming",
+      Stack: "Hybrid Apps",
       progressPercentage: "92%"
     }
   ],
@@ -151,13 +151,13 @@ const workExperiences = {
   experience: [
     {
       role: "Software Engineer",
-      company: "Folio3",
+      company: "Folio3 Software",
       companylogo: require("./assets/images/folio3.png"),
       date: "July 2021 – Present",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      desc: "Working as a Software Engineer whose responsible for developing the large scale web application for Healthcare systems in North America and more.",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "Responsible for the implementation, development and maintenance of the various web healthcare apps including (MyTrueCare web, MyTrueCare Clinical, MyTrueCare Mobile App)",
+        "Manage unit testing and bug fixes for these project"
       ]
     },
     {
@@ -165,10 +165,11 @@ const workExperiences = {
       company: "codeFulcrum",
       companylogo: require("./assets/images/codefulcrum.jpg"),
       date: "March 2021 – July 2021",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      desc: "Worked as a Software Engineer responsible for the implementing and maintaining the diverse array fo application related to Sports Events and Energy sector",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "Build efficient Frontend features in Reactjs, Vuejs, Nextjs and more",
+        "Manage unit testing and bug fixes for the various project",
+        "Implement software enhancements and suggest improvements"
       ]
     },
     {
@@ -176,7 +177,10 @@ const workExperiences = {
       company: "OneClout ",
       companylogo: require("./assets/images/oneclout.png"),
       date: "Jan 2018 – March 2021",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      desc: "Worked as a Full stack javascript developer responsible for the implementation, development and maintenance of the various web apps most of them are related to GIS.",
+      descBullets: [
+        "Implement various features and fixed bugs for multiple projects like (Mayor's Dededo E-community portal, Guam land record system & Enernite)."
+      ]
     },
     {
       role: "Javascript Developer",
@@ -184,7 +188,12 @@ const workExperiences = {
       companylogo: require("./assets/images/logicman.png"),
 
       date: "June 2018 – Jan 2020",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      desc: "Full stack web developer responsible for end-to-end web app development.",
+      descBullets: [
+        "Writing well designed, testable, efficient code by using best software development practices.",
+        "Creating website layout/user interfaces.",
+        "Integrating data from various back-end services and databases."
+      ]
     }
   ]
 };
@@ -201,7 +210,7 @@ const openSource = {
 
 const bigProjects = {
   title: "Big Projects",
-  subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
+  subtitle: "FEW PROJECTS ON WHICH I WORKED ON DURING MY CAREER",
   projects: [
     {
       image: require("./assets/images/saayaHealthLogo.webp"),
@@ -245,7 +254,7 @@ const achievementSection = {
       image: require("./assets/images/react-coursera.png"),
       footerLink: [
         {
-          name: "Certification",
+          name: "Certification Detail",
           url: "https://www.coursera.org/account/accomplishments/verify/HG44CCFRJLKH"
         }
       ]
@@ -256,7 +265,7 @@ const achievementSection = {
       image: require("./assets/images/google-coursera.png"),
       footerLink: [
         {
-          name: "Certification",
+          name: "Certification Detail",
           url: "https://www.coursera.org/account/accomplishments/verify/8JHMTT8KWV8X"
         }
       ]
@@ -267,7 +276,7 @@ const achievementSection = {
       image: require("./assets/images/react-udemy.jpeg"),
       footerLink: [
         {
-          name: "Certification",
+          name: "Certification Detail",
           url: "https://www.udemy.com/certificate/UC-2c4c1530-c645-4a41-861c-d121ce3a3e2d/"
         }
       ]
@@ -278,7 +287,7 @@ const achievementSection = {
       image: require("./assets/images/udmey-node.jpeg"),
       footerLink: [
         {
-          name: "Certification",
+          name: "Certification Detail",
           url: "https://www.udemy.com/certificate/UC-a6af1965-dfea-44b4-810b-882809a5378d/"
         }
       ]
@@ -289,7 +298,7 @@ const achievementSection = {
       image: require("./assets/images/bootstrap-coursera.png"),
       footerLink: [
         {
-          name: "Certification",
+          name: "Certification Detail",
           url: "https://www.coursera.org/account/accomplishments/verify/MB8VXX664NX9"
         }
       ]
@@ -300,7 +309,7 @@ const achievementSection = {
       image: require("./assets/images/git-idemy.jpeg"),
       footerLink: [
         {
-          name: "Certification",
+          name: "Certification Detail",
           url: "https://www.udemy.com/certificate/UC-1fbfc344-61c7-4383-a04b-0c8bcbbb32df/"
         }
       ]
