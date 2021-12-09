@@ -156,7 +156,7 @@ const workExperiences = {
       date: "July 2021 – Present",
       desc: "Working as a Software Engineer whose responsible for developing the large scale web application for Healthcare systems in North America and more.",
       descBullets: [
-        "Responsible for the implementation, development and maintenance of the various web healthcare apps including (MyTrueCare web, MyTrueCare Clinical, MyTrueCare Mobile App)",
+        "Responsible for the implementation, development and maintenance of the various healthcare apps including (MyTrueCare web, MyTrueCare Clinical, MyTrueCare Mobile App)",
         "Manage unit testing and bug fixes for these project"
       ]
     },
@@ -165,11 +165,10 @@ const workExperiences = {
       company: "codeFulcrum",
       companylogo: require("./assets/images/codefulcrum.jpg"),
       date: "March 2021 – July 2021",
-      desc: "Worked as a Software Engineer responsible for the implementing and maintaining the diverse array fo application related to Sports Events and Energy sector",
+      desc: "Worked as a Software Engineer whose responsible for the implementing and maintaining the diverse array of application related to Sports Events and Energy sector",
       descBullets: [
         "Build efficient Frontend features in Reactjs, Vuejs, Nextjs and more",
-        "Manage unit testing and bug fixes for the various project",
-        "Implement software enhancements and suggest improvements"
+        "Manage unit testing and bug fixes for the various project"
       ]
     },
     {
@@ -179,7 +178,8 @@ const workExperiences = {
       date: "Jan 2018 – March 2021",
       desc: "Worked as a Full stack javascript developer responsible for the implementation, development and maintenance of the various web apps most of them are related to GIS.",
       descBullets: [
-        "Implement various features and fixed bugs for multiple projects like (Mayor's Dededo E-community portal, Guam land record system & Enernite)."
+        "Implement various features and fixed bugs for multiple projects like (Mayor's Dededo E-community portal, Guam land record system & Enernite).",
+        "Implement software enhancements and suggest improvements"
       ]
     },
     {
@@ -190,8 +190,8 @@ const workExperiences = {
       date: "June 2018 – Jan 2020",
       desc: "Full stack web developer responsible for end-to-end web app development.",
       descBullets: [
-        "Writing well designed, testable, efficient code by using best software development practices.",
-        "Creating website layout/user interfaces.",
+        "Write well designed, testable, efficient code by using best software development practices.",
+        "Created website interfaces using frameworks and libraries like React & Vue.",
         "Integrating data from various back-end services and databases."
       ]
     }
@@ -213,25 +213,77 @@ const bigProjects = {
   subtitle: "FEW PROJECTS ON WHICH I WORKED ON DURING MY CAREER",
   projects: [
     {
-      image: require("./assets/images/saayaHealthLogo.webp"),
-      projectName: "Saayahealth",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      image: require("./assets/images/treackhero.png"),
+      projectName: "TrackHero",
+      projectDesc: "TrackHero is the all-in-one platform which provide the ",
       footerLink: [
         {
           name: "Visit Website",
-          url: "http://saayahealth.com/"
+          url: "https://www.trackhero.io/"
+        },
+        {
+          name: "More Images",
+          url: "https://drive.google.com/drive/folders/15qWG6EGT5RmPH_bW59KyPCL-roBkxFy0?usp=sharing"
         }
-        //  you can add extra buttons here.
       ]
     },
     {
-      image: require("./assets/images/nextuLogo.webp"),
-      projectName: "Nextu",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      image: require("./assets/images/esgtree.png"),
+      projectName: "ESGTree",
+      projectDesc:
+        "ESGTree aims to bring technology which is used to compare and track the performance of the Companies all around the world, providing companies with the information they need to optimize their productivity and yield based on different indicators.",
       footerLink: [
         {
           name: "Visit Website",
-          url: "http://nextu.se/"
+          url: "https://esgtree.com/"
+        },
+        {
+          name: "More Images",
+          url: "https://drive.google.com/drive/folders/1ILJSF9alFVgMfVr6ZhcZcf7trthOTi7p?usp=sharing"
+        }
+      ]
+    },
+    {
+      image: require("./assets/images/mayor-pilot.png"),
+      projectName: "E-Community Portal Mayro's Dededo",
+      projectDesc:
+        "E-Community is a platform which helps the people of GUAM to easily logged the complains regarding their common issue like animal control, street light repairs, road repairs, transfer of residence etc, Directly using the application forms and map.",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "http://community.mgtechx.com/"
+        },
+        {
+          name: "More Images",
+          url: "https://drive.google.com/drive/folders/17BjYra7drUC-q3wihMnh92wwUhdjEokl?usp=sharing"
+        }
+      ]
+    },
+    {
+      image: require("./assets/images/enernite.png"),
+      projectName: "Enernite",
+      projectDesc:
+        "Enernite is an online GIS software, that displays the geospatial information in a very simple and elegant way. Enernite is also capable and allow user to download specific area of map along with different basemaps and power grid data for offline usage.",
+      footerLink: [
+        {
+          name: "More Images",
+          url: "https://drive.google.com/drive/folders/1L1grpkwJRpR8RpyG5xR6ULIN3VYGwkKW?usp=sharing"
+        }
+      ]
+    },
+    {
+      image: require("./assets/images/onclout-attendance.png"),
+      projectName: "OneClout Attendance Portal",
+      projectDesc:
+        "In house attendance system for the company having the feature to mark attendance using Qr and facial scanner. User can see the stats of monthly attendance and admin can also manage and monitor the attendance and also visualise through multiple graphs.",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://attendance.oneclout.com/"
+        },
+        {
+          name: "More Images",
+          url: "https://drive.google.com/drive/folders/1qsS5REQD8sz2Ic4ny6HVtcKDP44tARrG?usp=sharing"
         }
       ]
     }
@@ -379,7 +431,8 @@ const contactInfo = {
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
   number: "+92-3014498244",
-  email_address: "hasham.hasham1@gmail.com"
+  email_address: "hasham.hasham1@gmail.com",
+  image: require("./assets/images/profile-pic.jpg")
 };
 
 // Twitter Section
