@@ -67,8 +67,15 @@ export default function Contact() {
               <SocialMedia />
             </div>
           </div>
-          <div className="image-content-profile">
-            <img src={contactInfo.image} className="profile-image" />
+          <div className="contact-image-div">
+            {illustration.animated ? (
+              <DisplayLottie animationData={email} />
+            ) : (
+              <img
+                alt="Man working"
+                src={require("../../assets/images/contactMailDark.svg")}
+              ></img>
+            )}
           </div>
         </div>
       </div>

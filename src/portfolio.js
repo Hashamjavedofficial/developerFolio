@@ -215,7 +215,8 @@ const bigProjects = {
     {
       image: require("./assets/images/treackhero.png"),
       projectName: "TrackHero",
-      projectDesc: "TrackHero is the all-in-one platform which provide the ",
+      projectDesc:
+        "TrackHero is the all-in-one platform which provide the individuals and organizations to directly book the reservation for their sport car event and also book different vehicles from vast catalog of different dealers based upon on their need.",
       footerLink: [
         {
           name: "Visit Website",
@@ -225,6 +226,13 @@ const bigProjects = {
           name: "More Images",
           url: "https://drive.google.com/drive/folders/15qWG6EGT5RmPH_bW59KyPCL-roBkxFy0?usp=sharing"
         }
+      ],
+      stack: [
+        "Nextjs",
+        "Typescript",
+        "Redux toolkit",
+        "Material UI",
+        "Openlayers"
       ]
     },
     {
@@ -241,7 +249,45 @@ const bigProjects = {
           name: "More Images",
           url: "https://drive.google.com/drive/folders/1ILJSF9alFVgMfVr6ZhcZcf7trthOTi7p?usp=sharing"
         }
-      ]
+      ],
+      stack: ["Nuxtjs", "Vuex", "Ant Design", "Highcharts"]
+    },
+    {
+      image: require("./assets/images/pg.jpg"),
+      projectName: "Precision Glass",
+      projectDesc:
+        "Precision Glass mobile app aims to resolve the delivery and order system for PGI, so clients can easily place their orders and decide time for the pickups based upon their availability. Clients can also track their order in realtime using push notifications.",
+      footerLink: [
+        {
+          name: "Google Play",
+          url: "https://play.google.com/store/apps/details?id=com.precisionglass.app"
+        },
+        {
+          name: "App Store",
+          url: "https://apps.apple.com/us/app/pgi-next-level/id1554050002"
+        },
+        {
+          name: "More Images",
+          url: "https://drive.google.com/drive/folders/1Wb19q2wRu4IiKvtuKcO9t87bNwTvf3yC?usp=sharing"
+        }
+      ],
+      stack: ["React-Native", "Redux", "Native Base", "Firebase"]
+    },
+    {
+      image: require("./assets/images/truecare-web.png"),
+      projectName: "MyTrueCare Web",
+      projectDesc: "TrackHero is the all-in-one platform which provide the ",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://qa-env.portal.truecare4you.com/login"
+        },
+        {
+          name: "More Images",
+          url: "https://drive.google.com/drive/folders/1s1Zp6DroFv5mmWh1ZKZDQ-Wvbi__j1_1?usp=sharing"
+        }
+      ],
+      stack: ["React", "Redux", "Redux Saga", "Ant Design", "GraphQL"]
     },
     {
       image: require("./assets/images/mayor-pilot.png"),
@@ -257,6 +303,14 @@ const bigProjects = {
           name: "More Images",
           url: "https://drive.google.com/drive/folders/17BjYra7drUC-q3wihMnh92wwUhdjEokl?usp=sharing"
         }
+      ],
+      stack: [
+        "React",
+        "Redux",
+        "Redux Thunk",
+        "Material UI",
+        "Openlayers",
+        "Mapbox"
       ]
     },
     {
@@ -269,6 +323,14 @@ const bigProjects = {
           name: "More Images",
           url: "https://drive.google.com/drive/folders/1L1grpkwJRpR8RpyG5xR6ULIN3VYGwkKW?usp=sharing"
         }
+      ],
+      stack: [
+        "React",
+        "Redux",
+        "Redux Thunk",
+        "Ant Design",
+        "Openlayers",
+        "Mapbox"
       ]
     },
     {
@@ -285,7 +347,27 @@ const bigProjects = {
           name: "More Images",
           url: "https://drive.google.com/drive/folders/1qsS5REQD8sz2Ic4ny6HVtcKDP44tARrG?usp=sharing"
         }
+      ],
+      stack: [
+        "React",
+        "Redux",
+        "Redux Thunk",
+        "Ant Design",
+        "MongoDB",
+        "Nodejs"
       ]
+    },
+    {
+      image: require("./assets/images/truecare-mobile.jpg"),
+      projectName: "MyTrueCare Mobile",
+      projectDesc: "TrackHero is the all-in-one platform which provide the ",
+      footerLink: [
+        {
+          name: "More Images",
+          url: "https://drive.google.com/drive/folders/1VK5B8RiD0tqZMYJoL0i7TkWnl39RdWHX?usp=sharing"
+        }
+      ],
+      stack: ["React-Native", "Native Base", "Redux thunk", "Firebase"]
     }
   ],
   display: true // Set false to hide this section, defaults to true

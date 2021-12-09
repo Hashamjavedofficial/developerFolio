@@ -54,6 +54,27 @@ export default function StartupProject() {
                     >
                       {project.projectName}
                     </h5>
+                    {project.stack ? (
+                      <>
+                        <div style={{marginTop: 18}}></div>
+                        <div className="project-card-footer">
+                          {project.stack.map((link, i) => {
+                            return (
+                              <span
+                                key={i}
+                                className={
+                                  isDark
+                                    ? "dark-mode project-tag1"
+                                    : "project-tag1"
+                                }
+                              >
+                                {link}
+                              </span>
+                            );
+                          })}
+                        </div>
+                      </>
+                    ) : null}
                     <p
                       className={
                         isDark ? "dark-mode card-subtitle" : "card-subtitle"
