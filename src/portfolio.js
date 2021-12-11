@@ -250,7 +250,7 @@ const bigProjects = {
           url: "https://drive.google.com/drive/folders/1ILJSF9alFVgMfVr6ZhcZcf7trthOTi7p?usp=sharing"
         }
       ],
-      stack: ["Nuxtjs", "Vuex", "Ant Design", "Highcharts"]
+      stack: ["Nuxtjs", "Vuex", "Ant Design", "Highcharts", "Nodejs", "MySQL"]
     },
     {
       image: require("./assets/images/pg.jpg"),
@@ -288,7 +288,7 @@ const bigProjects = {
           url: "https://drive.google.com/drive/folders/1s1Zp6DroFv5mmWh1ZKZDQ-Wvbi__j1_1?usp=sharing"
         }
       ],
-      stack: ["React", "Redux", "Redux Saga", "Ant Design", "GraphQL"]
+      stack: ["React", "Redux", "Redux Saga", "Ant Design", "GraphQL", "Nodejs"]
     },
     {
       image: require("./assets/images/mayor-pilot.png"),
