@@ -24,14 +24,15 @@ export default function Contact() {
             >
               {contactInfo.subtitle}
             </p>
-            <div className="opp-div">
-              <span className="desc-prof">Open for opportunities: Yes</span>
-            </div>
+
             <div
               className={
                 isDark ? "dark-mode contact-text-div" : "contact-text-div"
               }
             >
+              <div className="opp-div">
+                <span className="desc-prof">Open for opportunities: Yes</span>
+              </div>
               <a className="contact-detail" href={"tel:" + contactInfo.number}>
                 {contactInfo.number}
               </a>

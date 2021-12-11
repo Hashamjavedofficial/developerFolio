@@ -17,7 +17,7 @@ const greeting = {
     "A passionate Full Stack Software Engineer 🚀 having 5+ years of experience in building Web and Hybrid applications with JavaScript / Reactjs / Nodejs / Vuejs / React-Native and many other cool libraries and frameworks."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing",
+    "https://drive.google.com/file/d/1hwqOonbXMAMRhuIVkOWofcKqarcCpHUG/view?usp=sharing",
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -175,7 +175,7 @@ const workExperiences = {
       role: "Software Engineer",
       company: "OneClout ",
       companylogo: require("./assets/images/oneclout.png"),
-      date: "Jan 2018 – March 2021",
+      date: "Jan 2020 – March 2021",
       desc: "Worked as a Full stack javascript developer responsible for the implementation, development and maintenance of the various web apps most of them are related to GIS.",
       descBullets: [
         "Implement various features and fixed bugs for multiple projects like (Mayor's Dededo E-community portal, Guam land record system & Enernite).",
