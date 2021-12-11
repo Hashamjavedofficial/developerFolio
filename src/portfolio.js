@@ -276,7 +276,8 @@ const bigProjects = {
     {
       image: require("./assets/images/truecare-web.png"),
       projectName: "MyTrueCare Web",
-      projectDesc: "TrackHero is the all-in-one platform which provide the ",
+      projectDesc:
+        "MyTrueCare is the platform which is used by the healthcare services in USA to easily manage the appointment of patients and also efficiently maintain the clinical records and patients history while patient can easily book the physical or online appointment in different health care centers across USA in few clicks.",
       footerLink: [
         {
           name: "Visit Website",
@@ -360,7 +361,8 @@ const bigProjects = {
     {
       image: require("./assets/images/truecare-mobile.jpg"),
       projectName: "MyTrueCare Mobile",
-      projectDesc: "TrackHero is the all-in-one platform which provide the ",
+      projectDesc:
+        "MyTrueCare is the platform which is used by the healthcare services in USA to easily manage the appointment of patients and also efficiently maintain the clinical records and patients history while patient can easily book the physical or online appointment in different health care centers across USA in few clicks.",
       footerLink: [
         {
           name: "More Images",
