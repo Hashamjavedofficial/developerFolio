@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "823bfa64067002dd9df9f1dba70b63b4",
+    "revision": "827e295137a7d07a8d63cfbd539fc6b9",
     "url": "/developerFolio/index.html"
   },
   {
-    "revision": "0965c1a58f583721fe99",
+    "revision": "ea5ddac8335edc7fa3d3",
     "url": "/developerFolio/static/css/3.bc85b1b3.chunk.css"
   },
   {
-    "revision": "bde5d8b9f9446a70a497",
+    "revision": "5d3898aab3ac2ea98012",
     "url": "/developerFolio/static/css/4.5c57288c.chunk.css"
   },
   {
-    "revision": "8f461e8d145f0aae41c3",
+    "revision": "d42723c55878920f5074",
     "url": "/developerFolio/static/css/main.a02b4aff.chunk.css"
   },
   {
-    "revision": "21c50ecba0be561c9abb",
-    "url": "/developerFolio/static/js/2.1a67ff93.chunk.js"
+    "revision": "8f31f6c039215d387bd4",
+    "url": "/developerFolio/static/js/2.ece9b374.chunk.js"
   },
   {
     "revision": "408f8ade359af8695a328ed937291fdf",
-    "url": "/developerFolio/static/js/2.1a67ff93.chunk.js.LICENSE.txt"
+    "url": "/developerFolio/static/js/2.ece9b374.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0965c1a58f583721fe99",
-    "url": "/developerFolio/static/js/3.631e3a59.chunk.js"
+    "revision": "ea5ddac8335edc7fa3d3",
+    "url": "/developerFolio/static/js/3.9e5415b1.chunk.js"
   },
   {
-    "revision": "bde5d8b9f9446a70a497",
-    "url": "/developerFolio/static/js/4.d8205c4e.chunk.js"
+    "revision": "5d3898aab3ac2ea98012",
+    "url": "/developerFolio/static/js/4.f46bf872.chunk.js"
   },
   {
-    "revision": "8f461e8d145f0aae41c3",
-    "url": "/developerFolio/static/js/main.35f0ae52.chunk.js"
+    "revision": "d42723c55878920f5074",
+    "url": "/developerFolio/static/js/main.c2432ca9.chunk.js"
   },
   {
-    "revision": "6fd0a5595f7b64863b74",
-    "url": "/developerFolio/static/js/runtime-main.aad4ea32.js"
+    "revision": "256ee649fad7c6e6be43",
+    "url": "/developerFolio/static/js/runtime-main.e45cedd1.js"
   },
   {
     "revision": "a3752c4bf72688b3db38d0911cf75f61",
@@ -68,8 +68,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/developerFolio/static/media/esgtree.a3996658.png"
   },
   {
-    "revision": "b5cc544d56d70d122ef188afbf01e400",
-    "url": "/developerFolio/static/media/git-idemy.b5cc544d.jpeg"
+    "revision": "4c7b1ec8fb5b4c64180b60cdd903e9d0",
+    "url": "/developerFolio/static/media/git-idemy.4c7b1ec8.jpeg"
   },
   {
     "revision": "215bbc06f8ee4c35f6f22dd9a5efd105",
@@ -88,20 +88,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/developerFolio/static/media/onclout-attendance.22b374d2.png"
   },
   {
-    "revision": "a608f7f94dbae3babccc3f65b8b34eb0",
-    "url": "/developerFolio/static/media/pg.a608f7f9.jpg"
+    "revision": "5cd08550376b4a407218cda3d1740061",
+    "url": "/developerFolio/static/media/pg.5cd08550.jpg"
   },
   {
-    "revision": "74fc58c92f9cb24f60ebd8d53bfba0b7",
-    "url": "/developerFolio/static/media/profile-pic.74fc58c9.jpg"
+    "revision": "b968c5a17bdc3dbc0169c941cc29a84e",
+    "url": "/developerFolio/static/media/profile-pic.b968c5a1.jpg"
   },
   {
     "revision": "e54856c867fcd9512b3d55300a1a81d0",
     "url": "/developerFolio/static/media/react-coursera.e54856c8.png"
   },
   {
-    "revision": "2129bef62b0805b9b8592b8034d95131",
-    "url": "/developerFolio/static/media/react-udemy.2129bef6.jpeg"
+    "revision": "c4e2a064dde4d263dea34873f37a4c32",
+    "url": "/developerFolio/static/media/react-udemy.c4e2a064.jpeg"
   },
   {
     "revision": "3440939881da8339d1597e8d77cdf850",
@@ -116,16 +116,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/developerFolio/static/media/treackhero.6cc67451.png"
   },
   {
-    "revision": "9ef3976c4d4629f79e64c953043b7c37",
-    "url": "/developerFolio/static/media/truecare-mobile.9ef3976c.jpg"
+    "revision": "798b9ec9891fe635833c3e0be9dba9d8",
+    "url": "/developerFolio/static/media/truecare-mobile.798b9ec9.jpg"
   },
   {
     "revision": "f9a131d428c09ca7d67c8bee7882ec0f",
     "url": "/developerFolio/static/media/truecare-web.f9a131d4.png"
   },
   {
-    "revision": "29e83c256253d2afe11bcd36055993a4",
-    "url": "/developerFolio/static/media/udmey-node.29e83c25.jpeg"
+    "revision": "0dd59377f48e99cbf8122a1e89f6e2e8",
+    "url": "/developerFolio/static/media/udmey-node.0dd59377.jpeg"
   },
   {
     "revision": "5782a8698af5c467833b66830c2f66a9",
