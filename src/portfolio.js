@@ -17,7 +17,7 @@ const greeting = {
     "A passionate Full Stack Software Engineer 🚀 having 5+ years of experience in building Web and Hybrid applications with JavaScript / Reactjs / Nodejs / Vuejs / React-Native and many other cool libraries and frameworks."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1hwqOonbXMAMRhuIVkOWofcKqarcCpHUG/view?usp=sharing",
+    "https://drive.google.com/file/d/1qQlRo67n2NobklNV7uwUf9muJBR_cS5s/view?usp=sharing",
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
