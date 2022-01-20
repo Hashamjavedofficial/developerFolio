@@ -160,22 +160,22 @@ const workExperiences = {
         "Manage unit testing and bug fixes for these project"
       ]
     },
-    {
-      role: "Software Engineer",
-      company: "codeFulcrum",
-      companylogo: require("./assets/images/codefulcrum.jpg"),
-      date: "March 2021 – July 2021",
-      desc: "Worked as a Software Engineer whose responsible for the implementing and maintaining the diverse array of application related to Sports Events and Energy sector",
-      descBullets: [
-        "Build efficient Frontend features in Reactjs, Vuejs, Nextjs and more",
-        "Manage unit testing and bug fixes for the various project"
-      ]
-    },
+    // {
+    //   role: "Software Engineer",
+    //   company: "codeFulcrum",
+    //   companylogo: require("./assets/images/codefulcrum.jpg"),
+    //   date: "March 2021 – July 2021",
+    //   desc: "Worked as a Software Engineer whose responsible for the implementing and maintaining the diverse array of application related to Sports Events and Energy sector",
+    //   descBullets: [
+    //     "Build efficient Frontend features in Reactjs, Vuejs, Nextjs and more",
+    //     "Manage unit testing and bug fixes for the various project"
+    //   ]
+    // },
     {
       role: "Software Engineer",
       company: "OneClout ",
       companylogo: require("./assets/images/oneclout.png"),
-      date: "Jan 2020 – March 2021",
+      date: "Jan 2020 – June 2021",
       desc: "Worked as a Full stack javascript developer responsible for the implementation, development and maintenance of the various web apps most of them are related to GIS.",
       descBullets: [
         "Implement various features and fixed bugs for multiple projects like (Mayor's Dededo E-community portal, Guam land record system & Enernite).",
