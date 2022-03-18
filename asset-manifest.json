@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/developerFolio/static/css/main.a02b4aff.chunk.css",
-    "main.js": "/developerFolio/static/js/main.7c2d0203.chunk.js",
-    "main.js.map": "/developerFolio/static/js/main.7c2d0203.chunk.js.map",
+    "main.js": "/developerFolio/static/js/main.a2995c32.chunk.js",
+    "main.js.map": "/developerFolio/static/js/main.a2995c32.chunk.js.map",
     "runtime-main.js": "/developerFolio/static/js/runtime-main.e45cedd1.js",
     "runtime-main.js.map": "/developerFolio/static/js/runtime-main.e45cedd1.js.map",
     "static/js/2.ece9b374.chunk.js": "/developerFolio/static/js/2.ece9b374.chunk.js",
@@ -14,7 +14,7 @@
     "static/js/4.f46bf872.chunk.js": "/developerFolio/static/js/4.f46bf872.chunk.js",
     "static/js/4.f46bf872.chunk.js.map": "/developerFolio/static/js/4.f46bf872.chunk.js.map",
     "index.html": "/developerFolio/index.html",
-    "precache-manifest.ce4276ff5ef47e13bd9acef6e76f0d43.js": "/developerFolio/precache-manifest.ce4276ff5ef47e13bd9acef6e76f0d43.js",
+    "precache-manifest.cbe94ee096f36cbe8e266b234305a774.js": "/developerFolio/precache-manifest.cbe94ee096f36cbe8e266b234305a774.js",
     "service-worker.js": "/developerFolio/service-worker.js",
     "static/css/3.bc85b1b3.chunk.css.map": "/developerFolio/static/css/3.bc85b1b3.chunk.css.map",
     "static/css/4.5c57288c.chunk.css.map": "/developerFolio/static/css/4.5c57288c.chunk.css.map",
@@ -26,27 +26,27 @@
     "static/media/developerActivity.svg": "/developerFolio/static/media/developerActivity.59389695.svg",
     "static/media/enernite.png": "/developerFolio/static/media/enernite.400d2783.png",
     "static/media/esgtree.png": "/developerFolio/static/media/esgtree.a3996658.png",
-    "static/media/git-idemy.jpeg": "/developerFolio/static/media/git-idemy.4c7b1ec8.jpeg",
+    "static/media/git.png": "/developerFolio/static/media/git.a404da58.png",
     "static/media/google-coursera.png": "/developerFolio/static/media/google-coursera.215bbc06.png",
     "static/media/manOnTable.svg": "/developerFolio/static/media/manOnTable.52be3144.svg",
     "static/media/mayor-pilot.png": "/developerFolio/static/media/mayor-pilot.375478fc.png",
+    "static/media/nodejs.png": "/developerFolio/static/media/nodejs.10f6bd18.png",
     "static/media/onclout-attendance.png": "/developerFolio/static/media/onclout-attendance.22b374d2.png",
     "static/media/pg.jpg": "/developerFolio/static/media/pg.5cd08550.jpg",
     "static/media/profile-pic.jpg": "/developerFolio/static/media/profile-pic.b968c5a1.jpg",
     "static/media/react-coursera.png": "/developerFolio/static/media/react-coursera.e54856c8.png",
-    "static/media/react-udemy.jpeg": "/developerFolio/static/media/react-udemy.c4e2a064.jpeg",
+    "static/media/react.png": "/developerFolio/static/media/react.03a7dbfb.png",
     "static/media/skill.svg": "/developerFolio/static/media/skill.34409398.svg",
     "static/media/TalkCard.scss": "/developerFolio/static/media/talksCardBack.13780cdd.svg",
     "static/media/treackhero.png": "/developerFolio/static/media/treackhero.6cc67451.png",
     "static/media/truecare-mobile.jpg": "/developerFolio/static/media/truecare-mobile.798b9ec9.jpg",
     "static/media/truecare-web.png": "/developerFolio/static/media/truecare-web.f9a131d4.png",
-    "static/media/udmey-node.jpeg": "/developerFolio/static/media/udmey-node.0dd59377.jpeg",
     "static/media/uog.jpeg": "/developerFolio/static/media/uog.5782a869.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.e45cedd1.js",
     "static/js/2.ece9b374.chunk.js",
     "static/css/main.a02b4aff.chunk.css",
-    "static/js/main.7c2d0203.chunk.js"
+    "static/js/main.a2995c32.chunk.js"
   ]
 }

@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8994f3baf68541a6e2b24bd4401d1f00",
+    "revision": "fba45c52f0602008649e154f2c837fc3",
     "url": "/developerFolio/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/developerFolio/static/css/4.5c57288c.chunk.css"
   },
   {
-    "revision": "eeaba36bbf97eedf48ff",
+    "revision": "4d38316a6c83ec334005",
     "url": "/developerFolio/static/css/main.a02b4aff.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/developerFolio/static/js/4.f46bf872.chunk.js"
   },
   {
-    "revision": "eeaba36bbf97eedf48ff",
-    "url": "/developerFolio/static/js/main.7c2d0203.chunk.js"
+    "revision": "4d38316a6c83ec334005",
+    "url": "/developerFolio/static/js/main.a2995c32.chunk.js"
   },
   {
     "revision": "256ee649fad7c6e6be43",
@@ -68,8 +68,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/developerFolio/static/media/esgtree.a3996658.png"
   },
   {
-    "revision": "4c7b1ec8fb5b4c64180b60cdd903e9d0",
-    "url": "/developerFolio/static/media/git-idemy.4c7b1ec8.jpeg"
+    "revision": "a404da583ee69df04fea8a03daca6430",
+    "url": "/developerFolio/static/media/git.a404da58.png"
   },
   {
     "revision": "215bbc06f8ee4c35f6f22dd9a5efd105",
@@ -82,6 +82,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "375478fcee0c516b744042ec8840d546",
     "url": "/developerFolio/static/media/mayor-pilot.375478fc.png"
+  },
+  {
+    "revision": "10f6bd18716d89ff43e13c5685f82f5f",
+    "url": "/developerFolio/static/media/nodejs.10f6bd18.png"
   },
   {
     "revision": "22b374d2fd21f9dcda4977c91ea04e38",
@@ -100,8 +104,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/developerFolio/static/media/react-coursera.e54856c8.png"
   },
   {
-    "revision": "c4e2a064dde4d263dea34873f37a4c32",
-    "url": "/developerFolio/static/media/react-udemy.c4e2a064.jpeg"
+    "revision": "03a7dbfb7b491a615e7d7ad62f2780fe",
+    "url": "/developerFolio/static/media/react.03a7dbfb.png"
   },
   {
     "revision": "3440939881da8339d1597e8d77cdf850",
@@ -122,10 +126,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f9a131d428c09ca7d67c8bee7882ec0f",
     "url": "/developerFolio/static/media/truecare-web.f9a131d4.png"
-  },
-  {
-    "revision": "0dd59377f48e99cbf8122a1e89f6e2e8",
-    "url": "/developerFolio/static/media/udmey-node.0dd59377.jpeg"
   },
   {
     "revision": "5782a8698af5c467833b66830c2f66a9",
