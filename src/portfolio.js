@@ -409,7 +409,7 @@ const achievementSection = {
     {
       title: "React - The Complete Guide (incl Hooks, React Router, Redux)",
       subtitle: "Udemy",
-      image: require("./assets/images/react-udemy.jpeg"),
+      image: require("./assets/custom-images/react.png"),
       footerLink: [
         {
           name: "Certification Detail",
@@ -420,7 +420,7 @@ const achievementSection = {
     {
       title: "The Complete Node.js Developer Course (3rd Edition)",
       subtitle: "Udemy",
-      image: require("./assets/images/udmey-node.jpeg"),
+      image: require("./assets/custom-images/nodejs.png"),
       footerLink: [
         {
           name: "Certification Detail",
@@ -442,7 +442,7 @@ const achievementSection = {
     {
       title: "The Complete Git Guide: Understand and master Git and GitHub",
       subtitle: "Udemy",
-      image: require("./assets/images/git-idemy.jpeg"),
+      image: require("./assets/custom-images/git.png"),
       footerLink: [
         {
           name: "Certification Detail",
