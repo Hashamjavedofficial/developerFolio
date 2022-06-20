@@ -175,26 +175,13 @@ const workExperiences = {
       role: "Software Engineer",
       company: "OneClout ",
       companylogo: require("./assets/images/oneclout.png"),
-      date: "Jan 2020 – June 2021",
+      date: "Sep 2018 – June 2021",
       desc: "Worked as a Full stack javascript developer responsible for the implementation, development and maintenance of the various web apps most of them are related to GIS.",
       descBullets: [
         "Implement various features and fixed bugs for multiple projects like (Mayor's Dededo E-community portal, Guam land record system & Enernite).",
         "Implement software enhancements and suggest improvements"
       ]
     },
-    {
-      role: "Javascript Developer",
-      company: "Logicman Pvt Ltd",
-      companylogo: require("./assets/images/logicman.png"),
-
-      date: "June 2018 – Jan 2020",
-      desc: "Full stack web developer responsible for end-to-end web app development.",
-      descBullets: [
-        "Write well designed, testable, efficient code by using best software development practices.",
-        "Created website interfaces using frameworks and libraries like React & Vue.",
-        "Integrating data from various back-end services and databases."
-      ]
-    }
   ]
 };
 
